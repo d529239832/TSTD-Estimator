@@ -4,7 +4,7 @@ Time-sensitive applications require the End-to-End (E2E) delay of wireless netwo
 
 对于延迟预测任务，使用项目改进的pr3d。
 为了重现论文结果，您需要先下载数据集。在benchmarks/requirements.txt引用了原版作者pr3d中实现的预测器。
-原版作者的pr3d在此处[pr3d](https://github.com/samiemostafavi/pr3d).
+原版作者的pr3d在此处[pr3d](https://github.com/samiemostafavi/pr3d)。
 
 ## 论文
 该仓库包含以下论文的模型、评估方案和数值: [TSTD](https://www.mdpi.com/2079-9292/14/12/2324).
