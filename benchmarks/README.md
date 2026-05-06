@@ -30,7 +30,7 @@ sudo apt-get install dvipng texlive-latex-extra texlive-fonts-recommended cm-sup
 
 所有的测量结果都公布在Kaggle上: [wireless-pr3d MEAS](https://www.kaggle.com/datasets/samiemostafavi/wireless-pr3d).
 
-[dyj MEAS]https://www.kaggle.com/datasets/daiyujun/wifi-network-delay-dataset/data
+[TSTD MEAS]https://www.kaggle.com/datasets/daiyujun/wifi-network-delay-dataset/data
 
 如果您安装Kaggle Python包并添加您的令牌，您可以下载它们
 ```
