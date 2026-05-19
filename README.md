@@ -4,7 +4,7 @@ Time-sensitive applications require the End-to-End (E2E) delay of wireless netwo
 
 使用了改进的pr3d项目实现WiFi网络端到端时延概率密度函数估计任务。
 如果想重现论文结果，您需要先下载数据集。在benchmarks/requirements.txt中引用了作者samiemostafavi在pr3d中实现的估计器。
-原版作者的估计器在此处[pr3d](https://github.com/samiemostafavi/pr3d)。
+该作者的估计器在此处[pr3d](https://github.com/samiemostafavi/pr3d)。
 
 ## 论文
 该仓库包含以下论文的模型、评估方案和数值: [TSTD](https://www.mdpi.com/2079-9292/14/12/2324).
