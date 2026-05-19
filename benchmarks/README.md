@@ -29,11 +29,11 @@ sudo apt-get install dvipng texlive-latex-extra texlive-fonts-recommended cm-sup
 # 访问测量数据集
 
 
-Samie Mostafavi的测量结果公布在Kaggle上: [wireless-pr3d MEAS](https://www.kaggle.com/datasets/samiemostafavi/wireless-pr3d).
+Samie Mostafavi 的测量结果公布在Kaggle上: [wireless-pr3d MEAS](https://www.kaggle.com/datasets/samiemostafavi/wireless-pr3d).
 
 [TSTD MEAS]https://www.kaggle.com/datasets/daiyujun/wifi-network-delay-dataset/data
 
-如果您安装Kaggle Python包并添加您的令牌，您可以下载它们
+在服务器中，如果您安装Kaggle Python包并添加您的令牌，您可以下载它们
 ```
 pip install kaggle
 vim /home/wlab/.kaggle/kaggle.json
